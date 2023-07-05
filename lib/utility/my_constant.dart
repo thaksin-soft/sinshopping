@@ -43,4 +43,13 @@ TextStyle h3Style()=>TextStyle(
 
 );
 
+
+ButtonStyle sinButtonStyle() => ElevatedButton.styleFrom(
+                primary: MyConstant.Primary,
+                  shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(30),
+              ),
+              );
+
+
 }
