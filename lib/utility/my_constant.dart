@@ -7,13 +7,14 @@ static String appName = 'SIN SHOPPING';
 //Route
 static String routeAuthen = '/authen';
 static String routeCreateAccount = '/createAccount';
-static String routeBuyerService = 'buyerService';
-static String routeSaleService = 'salerService';
-static String routeRiderService = 'riderService';
+static String routeBuyerService = '/buyerService';
+static String routeSaleService = '/salerService';
+static String routeRiderService = '/riderService';
 
 
 //image
 static String image1 = 'images/LOGO.png';
+static String avatar = 'images/Avatar.png';
 
 
 
